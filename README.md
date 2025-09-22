@@ -1,5 +1,10 @@
 <h1 align="center">👋 Hey there !</h1>
 
+
+<p align="center">
+  I am Quentin, an engineering student at ISEN Lille and a passionate developer, always exploring new technologies !
+</p>
+
 ###
 
 <div align="center">
@@ -18,6 +23,12 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="node.js logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
 </div>
 
 
