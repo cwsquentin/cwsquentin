@@ -18,8 +18,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue.js logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="node.js logo" />
